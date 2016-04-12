@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nota_final: 1.5
+  semestre: MyString
+  alumno_id: 
+  docente_id: 
+  asignatura_id: 
+
+two:
+  nota_final: 1.5
+  semestre: MyString
+  alumno_id: 
+  docente_id: 
+  asignatura_id: 

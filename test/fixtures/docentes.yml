@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nom_docente: MyString
+  ape_docente: MyString
+  ingreso_docente: 1
+
+two:
+  nom_docente: MyString
+  ape_docente: MyString
+  ingreso_docente: 1

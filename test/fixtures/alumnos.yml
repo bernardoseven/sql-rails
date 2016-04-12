@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nom_alumno: MyString
+  ape_alumno: MyString
+  edad_alumno: 1
+  sexo_alumno: MyString
+  ingreso_alumno: 1
+  carrera_id: 
+
+two:
+  nom_alumno: MyString
+  ape_alumno: MyString
+  edad_alumno: 1
+  sexo_alumno: MyString
+  ingreso_alumno: 1
+  carrera_id: 

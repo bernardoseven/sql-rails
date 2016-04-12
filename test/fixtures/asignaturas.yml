@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  desc_asig: MyString
+  horas_asig: 1
+  carrera_id: 
+
+two:
+  desc_asig: MyString
+  horas_asig: 1
+  carrera_id: 
